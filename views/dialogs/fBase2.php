@@ -1,3 +1,9 @@
+<?php
+/**
+ * Purpose: Base fragment that demonstrates dropdown and multiselect controls.
+ * Usage: Include when showcasing select menus so designers can review available states.
+ */
+?>
 
 	<dt>Sample Dropdown:</dt>
 	<dd><select>

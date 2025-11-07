@@ -1,3 +1,9 @@
+<?php
+/**
+ * Purpose: Base fragment highlighting grid cell helper classes for inputs.
+ * Usage: Embed to illustrate how the cell-* classes distribute widths across form fields.
+ */
+?>
 
 	<dt>Sample Cells (Auto):</dt>
 	<dd><input type="text" /></dd>

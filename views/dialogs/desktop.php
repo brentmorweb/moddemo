@@ -1,4 +1,8 @@
 <?php
+/**
+ * Purpose: Establishes the desktop shell used to preview dialog windows.
+ * Usage: Loaded by the dialog demo routes to provide controls and include supporting assets.
+ */
 	$mwLoad->Window('wDialog', 'dialogs/wCombo');
 
 /*/

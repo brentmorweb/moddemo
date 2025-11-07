@@ -1,4 +1,8 @@
 <?php
+/**
+ * Purpose: Provides the desktop chrome for the skins demo including asset loading.
+ * Usage: Loaded by the Skins controller to wrap the index markup in the Morweb desktop layout.
+ */
 	$mwLoad->Window('wDialog', 'dialogs/wCombo');
 
 	$mwLoad

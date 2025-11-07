@@ -1,3 +1,9 @@
+<?php
+/**
+ * Purpose: Supplies the vanilla-styled index list for the alternate UI demo.
+ * Usage: Rendered when the vanilla subsection is requested to showcase a larger dataset.
+ */
+?>
 
 <style type="text/css">
 

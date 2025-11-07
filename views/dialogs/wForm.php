@@ -1,4 +1,8 @@
 <?php
+/**
+ * Purpose: Presents a dialog configured for form entry using the demo skin styles.
+ * Usage: Use the wForm window to inspect spacing, validation messaging, and action areas.
+ */
 	// Loading direct helper to read skins data
 	CI()->load->helper(['direct']);
 	mwSkin()->loadSheet('', 'mw.windows');

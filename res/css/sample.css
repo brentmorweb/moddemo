@@ -1,3 +1,7 @@
+/*
+ * Purpose: Demonstrates how to override Morweb index table styles for the demo.
+ * Usage: Include via $mwLoad->css('sample.css') to highlight custom links.
+ */
 .mwIndexTable .cell-custom-include a {
 	color			: red;
 }

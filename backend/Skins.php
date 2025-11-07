@@ -1,4 +1,9 @@
 <?php
+/**
+ * Purpose: Controller that renders the demo skin pages used to showcase UI experiments.
+ * Usage: Reached via the demo module routes (e.g., /skins or /skins/{subsection}) to
+ * load supporting assets and display the appropriate prototype layout.
+ */
 namespace demo;
 
 use Exception;

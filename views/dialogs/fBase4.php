@@ -1,3 +1,9 @@
+<?php
+/**
+ * Purpose: Base fragment covering combo input arrangements and button groups.
+ * Usage: Include this partial to preview combined button/input controls and file pickers.
+ */
+?>
 	
 	<dt>Sample Combos:</dt>
 	

@@ -1,4 +1,8 @@
 <?php
+/**
+ * Purpose: Renders a single-row dialog that places sample forms side by side.
+ * Usage: Use the wRow window to visualize two-column editor layouts within a constrained width.
+ */
 	// Loading direct helper to read skins data
 	CI()->load->helper(['direct']);
 	mwSkin()->loadSheet('', 'mw.windows');

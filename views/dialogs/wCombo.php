@@ -1,4 +1,8 @@
 <?php
+/**
+ * Purpose: Defines the combination dialog that links out to other sample windows.
+ * Usage: Open wCombo from the demo navigation to quickly drill into any of the showcase dialogs.
+ */
 	// Loading direct helper to read skins data
 	CI()->load->helper(['direct']);
 	mwSkin()->loadSheet('', 'mw.windows');

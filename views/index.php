@@ -1,3 +1,9 @@
+<?php
+/**
+ * Purpose: Builds the main skins index table used to demonstrate nested listings.
+ * Usage: Rendered by the Skins controller to illustrate draggable and nestable list behavior.
+ */
+?>
 
 <style type="text/css">
 

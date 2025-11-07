@@ -1,4 +1,8 @@
 <?php
+/**
+ * Purpose: Navigation group configuration that exposes demo routes inside the CMS menu.
+ * Usage: Loaded automatically by the demo module to register links under the Mods group.
+ */
 /**//**----= mwNavGroup_Demo =---------------------------------------------------------------------------------------------**//**
 *
 *	Demo nav group.
