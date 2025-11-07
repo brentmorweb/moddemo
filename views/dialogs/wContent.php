@@ -1,4 +1,8 @@
 <?php
+/**
+ * Purpose: Shows a dialog focused on content sections with contextual toolbars.
+ * Usage: Launch via the wContent window to review column layouts and utility buttons.
+ */
 	// Loading direct helper to read skins data
 	CI()->load->helper(['direct']);
 	mwSkin()->loadSheet('', 'mw.windows');

@@ -1,4 +1,8 @@
 <?php
+/**
+ * Purpose: Illustrates an editor dialog that includes a collapsible side panel.
+ * Usage: Launch wSideEd to test the side tab controls and how the editor area adapts when toggled.
+ */
 	mwLoad()->resource('tinyMCE');
 
 	// Loading direct helper to read skins data

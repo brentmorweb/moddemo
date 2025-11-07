@@ -1,4 +1,8 @@
 <?php
+/**
+ * Purpose: Defines the desktop wrapper for the vanilla UI showcase.
+ * Usage: Called by the Skins controller for the vanilla subsection to load assets and embed the index view.
+ */
 	$mwLoad->Window('wDialog', 'dialogs/wCombo');
 
 	$mwLoad

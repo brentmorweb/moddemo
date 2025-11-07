@@ -1,4 +1,8 @@
 <?php
+/**
+ * Purpose: Demonstrates different panel arrangements for dialog content.
+ * Usage: Invoke the panels dialog to preview container widths and grouping behaviors.
+ */
 	$containers	= isset($_GET['containers']);
 
 	$width		= 300;

@@ -1,4 +1,8 @@
 <?php
+/**
+ * Purpose: Displays dialog behavior when constrained by a minimum width.
+ * Usage: Open the wMinWidth window to validate responsive handling and layout wrapping.
+ */
 	// Loading direct helper to read skins data
 	CI()->load->helper(['direct']);
 	mwSkin()->loadSheet('', 'mw.windows');

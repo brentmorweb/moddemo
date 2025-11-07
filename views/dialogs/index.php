@@ -1,4 +1,8 @@
 <?php
+/**
+ * Purpose: Lists the available demo dialog windows along with launch actions.
+ * Usage: Embedded inside the dialog desktop so designers can open individual window samples.
+ */
 
 // ---- List ----
 

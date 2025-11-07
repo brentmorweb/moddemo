@@ -1,4 +1,8 @@
 <?php
+/**
+ * Purpose: Provides a tabbed dialog illustrating combinations of side panels.
+ * Usage: Select different tabs in the wPanels window to preview left, right, and middle panel setups.
+ */
 	mwLoad()->resource('tinyMCE');
 
 	// Loading direct helper to read skins data

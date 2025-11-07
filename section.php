@@ -1,4 +1,9 @@
 <?php
+/**
+ * Purpose: Registers the demo module with Morweb and exposes metadata for the section.
+ * Usage: Automatically loaded by the framework to define the module name, description,
+ * navigation, and privilege placeholders for the demo experience.
+ */
 /**//**----= mwDemoInit =--------------------------------------------------------------------------------------------------**//**
 *
 *	Demo module for designers.
