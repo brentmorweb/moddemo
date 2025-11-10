@@ -1,5 +1,5 @@
 <?php
-	$mwLoad->Window('wDialog', 'bpages/index');
+        $mwLoad->Window('wPages', 'bpages/index');
 
 	$mwLoad
 		->js('sample.js')
@@ -16,7 +16,7 @@
 
 	<h1><span>B</span> Pages</h1>
 
-	<a class="Add" onclick="mwWindow('wDialog').show();">New Page</a>
+        <a class="Add" onclick="mwWindow('wPages').show();">Browse Library</a>
 </div>
 
 <div class="mwDesktop">
@@ -30,7 +30,7 @@
 	jQuery( function () {
 
 		setTimeout( function () {
-		//	mwWindow('wDialog').show();
+		//	mwWindow('wPages').show();
 		}, 500);
 
 	}); //jQuery
